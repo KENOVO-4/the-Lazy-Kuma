@@ -1,0 +1,23 @@
+{
+  "anime": [
+    {
+      "id": "1",
+      "title": "Anime 1",
+      "thumbnail": "anime1-thumbnail.jpg",
+      "description": "A thrilling samurai anime...",
+      "episodes": [
+        { "episode_id": "1", "title": "Episode 1", "video_url": "assets/videos/anime1-ep1.mp4" },
+        { "episode_id": "2", "title": "Episode 2", "video_url": "assets/videos/anime1-ep2.mp4" }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Anime 2",
+      "thumbnail": "anime2-thumbnail.jpg",
+      "description": "An action-packed adventure anime...",
+      "episodes": [
+        { "episode_id": "1", "title": "Episode 1", "video_url": "assets/videos/anime2-ep1.mp4" }
+      ]
+    }
+  ]
+}
